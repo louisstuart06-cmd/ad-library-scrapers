@@ -48,6 +48,8 @@ for ad in client.dataset(run.default_dataset_id).iterate_items():
 
 The same pattern works for the other two Actors: [`tiktok_ads.py`](examples/python/tiktok_ads.py) and [`google_ads.py`](examples/python/google_ads.py). There is also an example for [Node.js](examples/node/meta_ads.mjs) and one for [cURL, a single HTTP call](examples/curl.md).
 
+📖 Tutorial: [How to scrape the Facebook Ad Library in 2026 (without the official API)](https://dev.to/stumadethat/how-to-scrape-the-facebook-ad-library-in-2026-without-the-official-api-1i8p).
+
 ## Inputs
 
 | Actor | Main inputs |
