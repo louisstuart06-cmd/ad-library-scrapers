@@ -163,7 +163,7 @@ To run it every morning, use cron (`0 8 * * * …`), or skip the script and crea
 These libraries are public transparency tools, which the EU Digital Services Act (Article 39) requires platforms to publish. The scrapers collect only publicly displayed ad data, with no logins and no personal user data. You remain responsible for how you use the data, for example GDPR if you process personal data, and the platforms' terms. This is not legal advice.
 
 **What are the limits?**
-- **TikTok:** the library only covers ads shown in the EU/EEA, UK, Switzerland and Turkey.
+- **TikTok:** the library only covers ads shown in the EU/EEA, UK and Switzerland.
 - **Meta:** outside the EU, inactive non-political ads are not public. Spend and reach are mostly given for EU and political ads.
 - **Google:** shows impression ranges, not exact numbers.
 - **Search results:** the libraries throttle heavy users, so very large searches may return fewer ads. The Actors save everything collected before a block.

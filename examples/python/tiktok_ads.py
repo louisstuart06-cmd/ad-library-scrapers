@@ -1,4 +1,4 @@
-"""TikTok ads from the TikTok Ad Library (ads shown in the EU/EEA, UK, Switzerland, Turkey).
+"""TikTok ads from the TikTok Ad Library (ads shown in the EU/EEA, UK, Switzerland).
 
 Actor: https://apify.com/stumadethat/tiktok-ads-library-monitor
 
